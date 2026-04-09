@@ -23,5 +23,15 @@ h1, h2, h3 {
 
 /* Navbar */
 .site-header {
-  border-bottom: 1px solid #e5e5e5;
+  background-color: #003366;
+  color: white;
+  border-bottom: 1px solid #003366;
+}
+
+.site-header a {
+  color: white;
+}
+
+.site-header a:hover {
+  color: #cccccc;
 }

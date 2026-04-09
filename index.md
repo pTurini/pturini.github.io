@@ -1,9 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Home"
 ---
-
-
 
 ### Computer Engineering @ Poli-USP  
 **Exchange Student and Researcher @ Osaka University**
