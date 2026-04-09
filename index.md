@@ -1,17 +1,16 @@
 ---
-layout: page
-title: "Home"
+layout: home
+title: ""
 ---
 
-# Pedro Hrosz Turini
-
-Computer Engineering @ USP  
+Computer Engineering @ Poli-USP  
 Exchange @ Osaka University  
 
 Interested in:
-- AI (Multi-Agent Systems, RL)
-- Quantitative Finance
-- Robotics  
 
-👉 [View CV](/cv)  
-👉 [Read Blog](/blog)
+- Quantitative Finance and Asset Management
+- Management Consulting
+- AI (Multimodal; Multi-Agent Systems)
+
+👉 [CV](/cv)  
+👉 [Blog](/blog)

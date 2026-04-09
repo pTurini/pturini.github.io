@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Blog
 
-Here are my posts about my exchange in Japan, travel, and thoughts.
+Here are my posts about interesting topics and ideas.
 
 <ul>
   {% for post in site.posts %}
