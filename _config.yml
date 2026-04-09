@@ -1,4 +1,5 @@
 title: About me
-description: Computer Engineering | AI & Quant Research
-theme: jekyll-theme-cayman
-show_downloads: false
+description: Computer Engineering @ Poli-USP | AI Researcher @ University of Osaka
+theme: minima
+plugins:
+  - jekyll-feed

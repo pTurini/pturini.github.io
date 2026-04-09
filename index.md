@@ -1,46 +1,119 @@
 ---
-layout: home
+layout: page
+title: "Pedro Hrosz Turini"
+permalink: /
 ---
 
 # Pedro Hrosz Turini
-**Computer Engineering @ Poli-USP** | **AI Researcher @ University of Osaka**
 
-[LinkedIn](https://linkedin.com/in/pedro-hrosz-turini/) | [Email](mailto:pedro.turini@gmail.com) | +55 (11) 99975-0054
++55 (11) 99975-0054  
+pedro.turini@gmail.com  
+[LinkedIn](https://linkedin.com/in/pedro-hrosz-turini/)
 
 ---
 
-### Education
-* **Polytechnic School of the University of São Paulo (Poli-USP)**: Jan. 2021 – Dec. 2026.
-    * GPA: 8.6 (Top 10%).
-* **The University of Osaka**: Sep. 2025 – Sep. 2026.
-    * Researching androids under Professor Hiroshi Ishiguro.
-* **Colégio Bandeirantes**: 2019 – 2020.
-    * Ranked 2nd out of 500+ students. GPA: 9.6 (Top 0.4%).
+## Education
 
-### Work Experience
-**Quantitative Research Intern | Galapagos Capital** (2024 – 2025)
-* Developed and optimized quantitative trading strategies using time-series analysis.
-* Applied ML for trading signals, dimensionality reduction, and macroeconomic clustering.
-* Researched cVAEs for synthetic data generation and implemented the company data lake.
+**University of São Paulo (Poli-USP)** — Computer Engineering  
+*São Paulo, Brazil | Jan 2021 – Dec 2026*  
+- GPA: 8.6 (Top 10%)
 
-**Risk Management Intern | Galapagos Capital** (2024 – 2025)
-* Automated market risk reports for R$ 20+ Billion AuM using Monte Carlo simulations.
-* Developed commodity pricing models and implemented a proprietary credit rating system.
+**Osaka University** — Computer Engineering (Exchange)  
+*Japan | Sep 2025 – Sep 2026*  
+- Research on androids under Prof. Hiroshi Ishiguro  
 
-**Undergraduate AI Researcher | Poli-USP** (2022 – 2023)
-* Researched multi-agent systems and negotiation under Professor Jaime Simão Sichman.
+**Colégio Bandeirantes (High School)**  
+*São Paulo, Brazil | 2019 – 2020*  
+- GPA: 9.6 (Top 0.4%)  
+- Ranked 2nd out of 500+ students  
 
-**Software Engineering Intern | Dimensa Tecnologia** (2023)
-* Developed infrastructure for national and international financial institutions.
+---
 
-### Awards & Competitions
-* **1st Place Worldwide**: Supply Chain Management League @ AAMAS London, 2023.
-* **Gold Medal**: Unicamp’s Mathematics Olympiad 2020 (1st place nationally).
+## Work Experience
 
-### Skills
-* **Programming**: Python, C, VBA (Advanced); Java, JavaScript, Ruby (Intermediate).
-* **Tools**: Pandas, Jupyter, PowerBI, Excel, Docker, AWS.
-* **Languages**: Portuguese, English (Fluent); Japanese, Spanish (Intermediate).
+### Quantitative Research Intern  
+**Galapagos Capital** | 2024 – 2025  
+- Developed and optimized quantitative trading strategies  
+- Applied ML techniques for signal generation and clustering  
+- Researched cVAEs for synthetic data and credit scoring  
+- Designed and implemented company data lake  
+
+### Risk Management Intern  
+**Galapagos Capital** | 2024 – 2025  
+- Automated risk reports for 40+ funds (R$20B+ AuM)  
+- Built pricing models and Monte Carlo simulations  
+- Developed proprietary credit rating system  
+- Produced executive portfolio reports  
+
+### Software Engineering Intern  
+**Dimensa Tecnologia** | 2023  
+- Built infrastructure for financial institutions and fintechs  
+
+### Undergraduate AI Researcher  
+**Poli-USP** | 2022 – 2023  
+- Research on multi-agent systems for supply chain optimization  
+- Topics: ML, Game Theory, Economics  
+
+---
+
+## 🏆 Competitions
+
+**AAMAS 2023 – Supply Chain Management League (OneShot)**  
+- 🥇 1st place worldwide (650+ teams)  
+- Presented in London at AAMAS conference  
+
+**Unicamp Mathematics Olympiad 2020**  
+- 🥇 1st place nationwide  
+
+---
+
+## 🚀 Extracurricular Activities
+
+**Academic Director — Poli-USP** | 2021 – 2022  
+- Led academic initiatives and support programs  
+- Co-founded blockchain extracurricular group  
+- Organized charitable events  
+
+**Algebra & Physics Monitor — Colégio Bandeirantes** | 2019 – 2020  
+- Created study materials and video lessons  
+
+---
+
+## Relevant Coursework
+
+- **Financial Markets** — Yale Online (2023)  
+- **Mathematics Applied to Finance** — Colégio Bandeirantes (2020)  
+
+---
+
+## Skills
+
+### Languages
+- Portuguese (Fluent)  
+- English (Fluent)  
+- Spanish (Intermediate)  
+- Japanese (Intermediate)  
+- French (Beginner)  
+
+### Programming
+- Python (Advanced), C, VBA  
+- Java, JavaScript, VHDL, Ruby  
+
+### Tools
+- Pandas, Jupyter  
+- Excel, PowerPoint, Word  
+- Power BI, Power Query  
+
+---
+
+## Interests
+
+- Artificial Intelligence (Multi-Agent Systems, RL, Explainability)  
+- Quantitative Finance  
+- Robotics & Androids  
+- Classical Music, Art, Literature  
+
+---
 
 ---
 
