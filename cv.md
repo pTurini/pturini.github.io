@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Pedro Hrosz Turini
 
-pedro.turini@gmail.com  
+pedro.turini@gmail.com
 LinkedIn: https://linkedin.com/in/pedro-hrosz-turini/
 
 ---
