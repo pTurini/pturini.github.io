@@ -23,15 +23,17 @@ h1, h2, h3 {
 
 /* Navbar */
 .site-header {
-  background-color: #003366;
-  color: white;
-  border-bottom: 1px solid #003366;
+  background-color: #003366 !important;
+  color: white !important;
+  border-bottom: 1px solid #003366 !important;
 }
 
-.site-header a {
-  color: white;
+.site-header .site-title a,
+.site-header .site-nav a {
+  color: white !important;
 }
 
-.site-header a:hover {
-  color: #cccccc;
+.site-header .site-title a:hover,
+.site-header .site-nav a:hover {
+  color: #cccccc !important;
 }

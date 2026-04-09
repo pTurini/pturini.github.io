@@ -4,8 +4,6 @@ title: "Blog"
 permalink: /blog/
 ---
 
-# Blog
-
 Here are my posts about interesting topics and ideas.
 
 <ul>
