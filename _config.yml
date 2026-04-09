@@ -1,4 +1,8 @@
 title: Pedro Hrosz Turini
-description: Computer Engineering | AI & Quant Research
-theme: jekyll-theme-cayman
-show_downloads: false
+remote_theme: jekyll/minima
+description: Computer Engineering @ Poli-USP | AI & Quant Research
+header_pages:
+  - index.md
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
