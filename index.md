@@ -1,16 +1,22 @@
 ---
-layout: home
+layout: page
 title: ""
 ---
 
-Computer Engineering @ Poli-USP  
-Exchange @ Osaka University  
+
+
+### Computer Engineering @ Poli-USP  
+**Exchange Student and Researcher @ Osaka University**
+
+<br>
 
 Interested in:
 
-- Quantitative Finance and Asset Management
-- Management Consulting
+- Quantitative Finance and Asset Management  
+- Management Consulting  
 - AI (Multimodal; Multi-Agent Systems)
 
-👉 [CV](/cv)  
-👉 [Blog](/blog)
+<br>
+
+ [CV](/cv)  
+[Blog](/blog)

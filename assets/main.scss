@@ -1,0 +1,27 @@
+@import "minima/skins/classic", "minima/initialize";
+
+/* Main text */
+body {
+  color: #2C2C2C;
+  font-weight: 400;
+}
+
+/* Links */
+a {
+  color: #1F3A5F;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #0B3C5D;
+}
+
+/* Navbar */
+.site-header {
+  border-bottom: 1px solid #e5e5e5;
+}

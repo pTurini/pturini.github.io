@@ -6,7 +6,6 @@ permalink: /cv/
 
 # Pedro Hrosz Turini
 
-+55 (11) 99975-0054  
 pedro.turini@gmail.com  
 LinkedIn: https://linkedin.com/in/pedro-hrosz-turini/
 
@@ -15,15 +14,15 @@ LinkedIn: https://linkedin.com/in/pedro-hrosz-turini/
 ## Education
 
 **Computer Engineering, Polytechnic School of the University of São Paulo**  
-São Paulo, Jan.2021- Dec.2026  
+São Paulo, Jan. 2021 - Dec. 2026  
 Undergraduate at Poli-USP. GPA: 8.6 (top 10%).
 
 **Computer Engineering, The University of Osaka**  
-Japan, Sep.2025- Sep.2026  
+Japan, Sep. 2025 - Sep. 2026  
 Exchange year taking credits and conducting research on androids under Professor Hiroshi Ishiguro.
 
 **Colégio Bandeirantes (High School)**  
-São Paulo, 2019-2020  
+São Paulo, 2019 - 2020  
 Honor student. Ranked 2nd out of 500+ students. GPA: 9.6 (top 0.4%).
 
 ---
@@ -31,7 +30,7 @@ Honor student. Ranked 2nd out of 500+ students. GPA: 9.6 (top 0.4%).
 ## Work Experience
 
 **Quantitative Research Intern**  
-Galapagos Capital, 2024-2025  
+Galapagos Capital, 2024 - 2025  
 
 Developed, backtested, and optimized advanced quantitative trading strategies. Used time-series analysis and manipulation methods for modelling (cointegration, fractal dimensions, etc.)
 
@@ -42,7 +41,7 @@ Optimized processes and algorithms using advanced computer techniques. Designed 
 ---
 
 **Risk Management Intern**  
-Galapagos Capital, 2024-2025  
+Galapagos Capital, 2024 - 2025  
 
 Created automated market risk reports for 40+ funds (R$ 20+ Billion AuM), including Sharpe, VaR, Stress Tests and future performance simulations using Monte Carlo.
 
@@ -55,14 +54,14 @@ Elaborated executive portfolio analysis reports for WM clients, including data o
 ---
 
 **Undergraduate AI Researcher**  
-Poli-USP,2022-2023  
+Poli-USP, 2022 - 2023  
 
 Conducted research on multi-agent systems applied to supply chain management and negotiation. Studied topics related to Logistics, Economy, Machine Learning and Game Theory. Oriented by Professor Jaime Simão Sichman.
 
 ---
 
 **Software Engineering Intern**  
-Dimensa Tecnologia, 2023- 2023  
+Dimensa Tecnologia, 2023 - 2023  
 
 Developed software infrastructure and applications for major national and international financial institutions and fintechs.
 

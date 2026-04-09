@@ -1,6 +1,6 @@
 title: ""
 description: "AI | Quant Finance | Computer Engineering"
-
+theme: minima
 header_pages:
   - cv.md
   - blog.md
