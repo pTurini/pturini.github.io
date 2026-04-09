@@ -1,6 +1,6 @@
 title: "Pedro Hrosz Turini"
 description: "AI | Quant Finance | Computer Engineering"
-theme: minima
+theme: jekyll-theme-slate
 header_pages:
   - index.md
   - cv.md
