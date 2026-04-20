@@ -13,7 +13,7 @@ Email: pedro.turini@gmail.com
 
 **Computer Engineering, Polytechnic School of the University of São Paulo**  
 São Paulo, Jan. 2021 - Dec. 2026  
-* Undergraduate at Poli-USP. GPA: 8.6 (top 10%).
+* Undergraduate at Poli-USP. top 5% GPA.
 
 **Computer Engineering, The University of Osaka**  
 Japan, Sep. 2025 - Sep. 2026  
